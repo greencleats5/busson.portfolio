@@ -8,9 +8,9 @@ body {
 <style>
 
 body.index {
-  background-image: 
-  background-size: cover
-  background-position: center
+  background-image: url("images/IMG_1145.JPG");
+  background-size: cover;
+  background-position: center;
 
 .sidebar {
   width: 220px;
