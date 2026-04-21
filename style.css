@@ -4,12 +4,40 @@ body {
 }
 
 .index {
-  background-image: url("images/Jake.png");
+  background-image: url("images/jake.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   }
-  
+
+.project1 {
+  background-image: url("images/paper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.project2 {
+  background-image: url("images/paper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.project3 {
+  background-image: url("images/paper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.project4 {
+  background-image: url("images/paper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .sidebar {
   position: fixed;
   left: 0;
