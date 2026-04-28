@@ -7,6 +7,12 @@ img {
   height: auto;
 }
 
+.name {
+font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: 600;
+}
+
 .index {
   background-image: url("images/jake2.JPG");
   background-size: cover;
